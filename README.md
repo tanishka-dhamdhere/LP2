@@ -1,2 +1,1 @@
-# LP2
-project 
+print('hello world!')
